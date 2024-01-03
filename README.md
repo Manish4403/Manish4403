@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Manish4403
-- 👀 I’m interested in programming and web design.
+- 👋 Hi, I’m @Manish
+- 👀 I’m interested in programming, web design, Machine Learning and Digital Hardware Design.
 - 🌱 I’m currently learning python, c++ and Machine Learning.
-- 💞️ I’m looking to collaborate on web design.
+- 💞️ I’m looking to collaborate on Hardware design.
 - 📫 How to reach me?
 - mail ID: manishsutradhar0@gmail.com
 
