@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Manish
-- 👀 I’m interested in programming, web design, Machine Learning, Embedded system and Digital Hardware Design.
-- 🌱 I’m currently learning python, c++ and Machine Learning.
+- 👋 Hi, I’m Manish
+- 👀 I’m interested in Computer architecture, Machine Learning and Digital Hardware Design.
+- 🌱 I’m currently learning Computer architecture and Machine Learning.
 - 💞️ I’m looking to collaborate on Hardware design.
 - 📫 How to reach me?
 - mail ID: manishsutradhar0@gmail.com
